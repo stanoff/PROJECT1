@@ -44,6 +44,7 @@ Plain Text
 -Action movies genre and adventure genre had relatively high domestic gross earnings.News,War and Western genres had the least domestic gross earnings.
 
 -Drama movies genre were the most popular whereas Game_Show,News and Reality-TV were least popular.
+
 ####### RECOMMENDATION
 Plain Text
 -For successful sustained domestic gross earnings overtime Microsoft new movie studio should consider production of Action and Adventure movies.
